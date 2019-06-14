@@ -1,5 +1,5 @@
 # mnist_digit
-MNIST digit dataset : image recognition with keras , logging weith TensorBoard and some modification
+MNIST digit dataset : image recognition with keras , logging with TensorBoard, plus optimization
 
 original sources :
 
